@@ -1,6 +1,6 @@
 <?php
 // Your OpenRouter API Key (replace with yours)
-$apiKey = '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';  // 🔐 Replace with your actual key
+$apiKey = '';  // 🔐 Replace with your actual key
 
 // Get form inputs
 $name = $_POST['name'] ?? '';
