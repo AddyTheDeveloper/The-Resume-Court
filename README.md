@@ -1,5 +1,10 @@
 🧠 The Résumé Court – AI Resume Builder
+
+
+
 Welcome to The Résumé Court, an AI-powered resume builder developed as part of the AI Essentials course for BTech CSE students at Lovely Professional University (LPU). This project empowers users to create elegant, job-ready resumes with AI suggestions and modern templates.
+
+
 
 🚀 Features
 📤 Upload a profile photo
@@ -16,6 +21,8 @@ Welcome to The Résumé Court, an AI-powered resume builder developed as part of
 
 💡 Clean, responsive, and user-friendly interface
 
+
+
 🛠️ Technologies Used
 Frontend: HTML5, CSS3, JavaScript
 
@@ -29,6 +36,8 @@ jsPDF – to create downloadable PDFs
 
 docx.js – for Word document export
 
+
+
 🖼️ Resume Templates
 Formal Classic – Timeless and clean layout
 
@@ -36,16 +45,24 @@ Modern Clean – Stylish and minimal design
 
 Professional Purple – Trendy and visually rich with purple accents
 
+
+
 📸 Preview
 Add screenshots or GIFs here if available.
 
+
+
 📚 Educational Purpose
 This project was developed as part of the AI Essentials coursework at LPU and is intended for educational and demonstration purposes only.
+
+
 
 🙌 Acknowledgements
 Special thanks to our AI Essentials faculty at LPU.
 
 Inspiration from modern online resume generators.
+
+
 
 📬 Contact
 Feel free to connect:
