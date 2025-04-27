@@ -293,3 +293,27 @@ form button:hover {
   border-radius: 20px;
 }
 
+/* Add styles for the new buttons */
+.header-buttons {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+}
+
+.header-buttons button {
+  background-color: #6a4bdf; /* Match your website's color scheme */
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  margin-left: 10px;
+  cursor: pointer;
+  font-family: 'Outfit', sans-serif;
+  font-size: 14px;
+  border-radius: 5px;
+}
+
+.header-buttons button:hover {
+  background-color: #6a4bdf; /* Darker shade when hovered */
+}
+
+
