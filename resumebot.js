@@ -35,7 +35,7 @@ particlesJS("particles-js", {
   });
   
   // OpenRouter API Key (replace with your real one)
-  const apiKey = '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';
+  const apiKey = '';
   
   const chatForm = document.getElementById('chat-form');
   const userInput = document.getElementById('user-input');
